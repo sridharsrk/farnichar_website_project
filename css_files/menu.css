@@ -1,0 +1,141 @@
+header{
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 30px;
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+}
+
+.logoContainer{
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.logo img{
+    width: 50px;
+    height: 32px;
+}
+
+.logo h2{
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.menuLinks ul, .menuOtherOptions ul{
+    display: flex;
+    list-style: none;
+    gap: 3.5rem;
+    align-items: center;
+}
+
+.menuLinks ul li a{
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.logo a, .menuLinks ul li a, .menuOtherOptions ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+/* this code for mobile menu */
+.mobileMenu{
+    display: none;
+}
+
+.mobileMenu ul{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2000;
+    height: 100vh;
+    width: 280px;
+    background-color: #ffffffeb;
+    display: none;
+    flex-direction: column;
+    padding: 50px;
+    list-style: none;
+    animation: openMenu 1s ease;
+}
+
+.closeMenu{
+    animation: closeMenu 1s ease !important;
+}
+
+@keyframes openMenu{
+    0%{
+        transform: translateX(-100%);
+    }
+    100%{
+        transform: translateX(0%);
+    }
+}
+
+@keyframes closeMenu{
+    0%{
+        transform: translateX(0%);
+    }
+    100%{
+        transform: translateX(-100%);
+    }
+}
+
+.mobileMenu ul li{
+    margin: 10px;
+}
+
+.mobileMenu ul svg{
+    display: flex;
+    align-self: flex-end;
+    width: 35px;
+    height: 35px;
+}
+
+.mobileMenu ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+/* media queries */
+@media only screen and (max-width: 1000px){
+    .mobileMenu{
+        display: flex;
+        justify-content: center;
+    }
+    
+    .menuLinks{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 730px){
+    .menuOtherOptions{
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        padding: 20px;
+        background-color: #ffffff;
+    }
+
+    .menuOtherOptions ul{
+        width: 100%;
+        justify-content: space-around;
+    }
+}
