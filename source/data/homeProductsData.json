@@ -1,0 +1,50 @@
+[
+    {
+        "offer": "-20%",
+        "productImage": "../source/productimg3.png",
+        "productName": "Syltherine",
+        "productDescription": "Stylish cafe chair",
+        "currentPrice": "Rp 2.500.000",
+        "oldPrice": "Rp 3.500.000"
+    },
+    {
+        "offer": "New",
+        "productImage": "../source/productimg3.png",
+        "productName": "Syltherine",
+        "productDescription": "Stylish cafe chair",
+        "currentPrice": "Rp 2.500.000",
+        "oldPrice": ""
+    },
+    {
+        "offer": "-40%",
+        "productImage": "../source/productimg3.png",
+        "productName": "Syltherine",
+        "productDescription": "Stylish cafe chair",
+        "currentPrice": "Rp 2.500.000",
+        "oldPrice": ""
+    },
+    {
+        "offer": "-20%",
+        "productImage": "../source/productimg3.png",
+        "productName": "Syltherine",
+        "productDescription": "Stylish cafe chair",
+        "currentPrice": "Rp 2.500.000",
+        "oldPrice": "Rp 3.500.000"
+    },
+    {
+        "offer": "New",
+        "productImage": "../source/productimg3.png",
+        "productName": "Syltherine",
+        "productDescription": "Stylish cafe chair",
+        "currentPrice": "Rp 2.500.000",
+        "oldPrice": ""
+    },
+    {
+        "offer": "-40%",
+        "productImage": "../source/productimg3.png",
+        "productName": "Syltherine",
+        "productDescription": "Stylish cafe chair",
+        "currentPrice": "Rp 2.500.000",
+        "oldPrice": ""
+    }
+]

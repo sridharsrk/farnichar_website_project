@@ -7,13 +7,16 @@
 
 body{
     position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
 }
 
 /* the code start from here for the banner */
 .banner{
     display: flex;
     height: 800px;
-    margin: 85px 5px;
+    margin: 85px 0 0 0;
     position: relative;
 }
 
@@ -27,4 +30,13 @@ body{
     position: absolute;
     bottom: 0;
     right: 0;
+}
+
+
+.demoProductsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    list-style: none;
 }
