@@ -28,4 +28,93 @@ body{
     bottom: 0;
     right: 0;
 }
+
+
+
+.banner{
+    display: flex;
+    height: 800px;
+    margin: 85px 5px;
+    position: relative;
+}
+
+.banner img{
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.bannerContent{
+    position: absolute;
+    top:30%;
+    right: 10%;
+    background: #fff3e3;
+    padding: 30px 30px 20px 20px;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.bannerContentHead{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.status{
+    letter-spacing: 3px;
+}
+.bannerTitle{
+    color: #b98e2f;
+}
+.bannerButton{
+    background: #b98e2f;
+    border: none;
+    color: white;
+    padding: 13px 25px;
+    font-weight: bold;
+    outline: none;
+}
+.bannerClose{
+    position: absolute;
+    top: 5%;
+    right: 3%;
+}
+.noBannerContrnt{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:1000px){
+    .bannerContent{
+        width: 30%;
+    }
+}
+@media only screen and (max-width:600px){
+    .bannerContent{
+        position: absolute;
+        right: 10%;
+        top: 10%;
+        width: 70%;
+    }
+    .banner{
+        height: 600px;
+    }
+}
+@media only screen and (max-width:375px){
+    .banner{
+        height: 500px;
+    }
+}
+
+
+
 /* loki */
