@@ -1,50 +1,66 @@
 [
     {
-        "offer": "-20%",
-        "productImage": "../source/productimg3.png",
-        "productName": "Syltherine",
-        "productDescription": "Stylish cafe chair",
-        "currentPrice": "Rp 2.500.000",
-        "oldPrice": "Rp 3.500.000"
+        "offer": "-57%",
+        "productImage": "../source/homePageImages/Raiden_Wooden_Sofa_Set.png",
+        "productName": "Raiden Wooden Sofa Set",
+        "productDescription": "Honey Finish, Irish Cream",
+        "currentPrice": "₹67,497",
+        "oldPrice": "₹152,499"
     },
     {
         "offer": "New",
-        "productImage": "../source/productimg3.png",
-        "productName": "Syltherine",
-        "productDescription": "Stylish cafe chair",
-        "currentPrice": "Rp 2.500.000",
+        "productImage": "../source/homePageImages/SONGESAND.png",
+        "productName": "SONGESAND",
+        "productDescription": "Bed frame with 2 storage boxes",
+        "currentPrice": "₹20,990",
         "oldPrice": ""
     },
     {
-        "offer": "-40%",
-        "productImage": "../source/productimg3.png",
-        "productName": "Syltherine",
-        "productDescription": "Stylish cafe chair",
-        "currentPrice": "Rp 2.500.000",
+        "offer": "-25%",
+        "productImage": "../source/homePageImages/Romesco_Dining_Table.png",
+        "productName": "Romesco Dining Table",
+        "productDescription": "Versac Aloud",
+        "currentPrice": "₹29,999",
+        "oldPrice": "₹39,999"
+    },
+    {
+        "offer": "",
+        "productImage": "../source/homePageImages/FRIDHULT.png",
+        "productName": "FRIDHULT",
+        "productDescription": "Sofa-bed, Skiftebo yellow",
+        "currentPrice": "₹19,990",
         "oldPrice": ""
     },
     {
-        "offer": "-20%",
-        "productImage": "../source/productimg3.png",
-        "productName": "Syltherine",
-        "productDescription": "Stylish cafe chair",
-        "currentPrice": "Rp 2.500.000",
-        "oldPrice": "Rp 3.500.000"
-    },
-    {
-        "offer": "New",
-        "productImage": "../source/productimg3.png",
-        "productName": "Syltherine",
-        "productDescription": "Stylish cafe chair",
-        "currentPrice": "Rp 2.500.000",
+        "offer": "",
+        "productImage": "../source/homePageImages/GAMMALBYN.png",
+        "productName": "GAMMALBYN",
+        "productDescription": "3-seat sofa, grey",
+        "currentPrice": "₹20,990",
         "oldPrice": ""
     },
     {
-        "offer": "-40%",
-        "productImage": "../source/productimg3.png",
-        "productName": "Syltherine",
-        "productDescription": "Stylish cafe chair",
-        "currentPrice": "Rp 2.500.000",
+        "offer": "-14%",
+        "productImage": "../source/homePageImages/Nox_Arm_Chair.png",
+        "productName": "Nox Arm Chair",
+        "productDescription": "Cane In Imported Teak Wood",
+        "currentPrice": "₹19,000",
+        "oldPrice": "₹22,100"
+    },
+    {
+        "offer": "",
+        "productImage": "../source/homePageImages/Metal_Office_Table.png",
+        "productName": "Metal Office Table",
+        "productDescription": "FTB 04 A",
+        "currentPrice": "₹44,900",
         "oldPrice": ""
+    },
+    {
+        "offer": "-33%",
+        "productImage": "../source/homePageImages/Pico_Wooden_Dining_Table.png",
+        "productName": "Pico Wooden Dining Table",
+        "productDescription": "Mahogany Wood",
+        "currentPrice": "₹26,000",
+        "oldPrice": "₹38,870"
     }
 ]
