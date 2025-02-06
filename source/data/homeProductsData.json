@@ -1,5 +1,6 @@
 [
     {
+        "id" : "sofa-Raiden_Wooden",
         "offer": "-57%",
         "productImage": "../source/homePageImages/Raiden_Wooden_Sofa_Set.png",
         "productName": "Raiden Wooden Sofa Set",
@@ -8,6 +9,7 @@
         "oldPrice": "₹152,499"
     },
     {
+        "id" : "bed-SONGESAND",
         "offer": "New",
         "productImage": "../source/homePageImages/SONGESAND.png",
         "productName": "SONGESAND",
@@ -16,6 +18,7 @@
         "oldPrice": ""
     },
     {
+        "id" : "table-Romesco_Dining_Table",
         "offer": "-25%",
         "productImage": "../source/homePageImages/Romesco_Dining_Table.png",
         "productName": "Romesco Dining Table",
@@ -24,6 +27,7 @@
         "oldPrice": "₹39,999"
     },
     {
+        "id" : "bed-FRIDHULT",
         "offer": "",
         "productImage": "../source/homePageImages/FRIDHULT.png",
         "productName": "FRIDHULT",
@@ -32,6 +36,7 @@
         "oldPrice": ""
     },
     {
+        "id" : "sofa-GAMMALBYN",
         "offer": "",
         "productImage": "../source/homePageImages/GAMMALBYN.png",
         "productName": "GAMMALBYN",
@@ -40,6 +45,7 @@
         "oldPrice": ""
     },
     {
+        "id" : "chair-Nox_Arm_Chair",
         "offer": "-14%",
         "productImage": "../source/homePageImages/Nox_Arm_Chair.png",
         "productName": "Nox Arm Chair",
@@ -48,6 +54,7 @@
         "oldPrice": "₹22,100"
     },
     {
+        "id" : "table-Metal_Office_Table",
         "offer": "",
         "productImage": "../source/homePageImages/Metal_Office_Table.png",
         "productName": "Metal Office Table",
@@ -56,6 +63,7 @@
         "oldPrice": ""
     },
     {
+        "id" : "table-Pico_Wooden_Dining_Table",
         "offer": "-33%",
         "productImage": "../source/homePageImages/Pico_Wooden_Dining_Table.png",
         "productName": "Pico Wooden Dining Table",

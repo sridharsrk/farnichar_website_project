@@ -23,6 +23,14 @@ export function createProduct(datapath, whereToAppend, count) {
             li.className = "product-li";
             toappend.appendChild(li);
 
+            // set data-id or data
+            li.setAttribute("data-id", productData.id);
+
+            // add event listener
+            li.addEventListener("click", function() {
+                createURL(this);
+            });
+
             // Create the product container
             const productContainer = document.createElement("div");
             productContainer.className = `product product-${i+1}`;

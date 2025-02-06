@@ -1,0 +1,87 @@
+{
+    "sofa": {
+        "Raiden_Wooden": {
+            "id" : "sofa-Raiden_Wooden",
+            "productImages": ["../source/homePageImages/Raiden_Wooden_Sofa_Set.png"],
+            "productName": "Raiden Wooden Sofa Set",
+            "offer": "-57%",
+            "currentPrice": "₹67,497",
+            "oldPrice": "₹152,499",
+            "customerRating": "4.5",
+            "customerReview": [""],
+            "productShortDetails": "Honey Finish, Irish Cream",
+            "availableSize": [""],
+            "availableColor": [""],
+            "productDescription": "Honey Finish, Irish Cream",
+            "additionalInformation": ["", ""]
+        }
+    },
+
+    "bed": {},
+
+    "chair": {},
+
+    "table": {},
+
+    "desk": {},
+
+    "wardrobe": {},
+
+    "dining_set": {},
+
+    "tv_unit": {},
+
+    "decor": {},
+
+    "lighting": {},
+
+    "home_textile": {},
+
+    "bookshelf": {},
+
+    "rug": {},
+
+    "mirror": {},
+
+    "cabinet": {},
+
+    "ottoman": {},
+
+    "recliner": {},
+
+    "bench": {},
+
+    "loveseat": {},
+
+    "stool": {},
+
+    "nightstand": {},
+
+    "headboard": {},
+
+    "bunk_bed": {},
+
+    "chest_of_drawers": {},
+
+    "coffee_table": {},
+
+    "side_table": {},
+
+    "console_table": {},
+
+    "end_table": {},
+    
+    "sideboard": {},
+
+    "shelving_unit": {},
+
+    "display_case": {},
+
+    "bar_stool": {},
+
+    "kitchen_island": {},
+
+    "hutch": {},
+
+    "coat_rack": {}
+}

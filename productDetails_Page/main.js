@@ -1,0 +1,1 @@
+import { createProduct  } from "../js_files/product.js";
